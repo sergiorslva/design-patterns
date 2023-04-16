@@ -8,3 +8,6 @@ This is a sample how can we implements the Factory pattern using c#
 
 ### Abstract Factory
 This is a sample how can we implements the Abstract Factory pattern using c#
+
+### Builder
+This is a sample how can we implements the Builder Factory pattern using c#
