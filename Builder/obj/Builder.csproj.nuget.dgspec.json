@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\design-patterns\\design-patterns\\Singleton\\Singleton.csproj": {}
+    "D:\\Estudos\\design-patterns\\design-patterns\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\design-patterns\\design-patterns\\Singleton\\Singleton.csproj": {
+    "D:\\Estudos\\design-patterns\\design-patterns\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\design-patterns\\design-patterns\\Singleton\\Singleton.csproj",
-        "projectName": "Singleton",
-        "projectPath": "D:\\Estudos\\design-patterns\\design-patterns\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "D:\\Estudos\\design-patterns\\design-patterns\\Builder\\Builder.csproj",
+        "projectName": "Builder",
+        "projectPath": "D:\\Estudos\\design-patterns\\design-patterns\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\silva\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\design-patterns\\design-patterns\\Singleton\\obj\\",
+        "outputPath": "D:\\Estudos\\design-patterns\\design-patterns\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\silva\\AppData\\Roaming\\NuGet\\NuGet.Config",

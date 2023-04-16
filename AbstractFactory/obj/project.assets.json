@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudos\\design-patterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "D:\\Estudos\\design-patterns\\design-patterns\\AbstractFactory\\AbstractFactory.csproj",
       "projectName": "AbstractFactory",
-      "projectPath": "D:\\Estudos\\design-patterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+      "projectPath": "D:\\Estudos\\design-patterns\\design-patterns\\AbstractFactory\\AbstractFactory.csproj",
       "packagesPath": "C:\\Users\\silva\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudos\\design-patterns\\DesignPatterns\\AbstractFactory\\obj\\",
+      "outputPath": "D:\\Estudos\\design-patterns\\design-patterns\\AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\silva\\AppData\\Roaming\\NuGet\\NuGet.Config",

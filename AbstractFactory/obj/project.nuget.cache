@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CyAlytu837Jaeau6et8dH13RGMwtdQVubjVGGOTcNwPUnxeFyRU5LzDHtuRZKnQXYvy3af1Sz5fOvNNmnc2H+Q==",
+  "dgSpecHash": "TfYiR3FD4RaWgqb1UsQtcMWZUHr4LrFKmP4c0AtIA8Hw4amzTWMPiqA6jNO/WJT7Ov3pmZy7HQoyXOM8KvxekQ==",
   "success": true,
-  "projectFilePath": "D:\\Estudos\\design-patterns\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+  "projectFilePath": "D:\\Estudos\\design-patterns\\design-patterns\\AbstractFactory\\AbstractFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

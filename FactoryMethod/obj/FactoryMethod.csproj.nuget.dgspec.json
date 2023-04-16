@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\design-patterns\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj": {}
+    "D:\\Estudos\\design-patterns\\design-patterns\\FactoryMethod\\FactoryMethod.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\design-patterns\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj": {
+    "D:\\Estudos\\design-patterns\\design-patterns\\FactoryMethod\\FactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\design-patterns\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj",
+        "projectUniqueName": "D:\\Estudos\\design-patterns\\design-patterns\\FactoryMethod\\FactoryMethod.csproj",
         "projectName": "FactoryMethod",
-        "projectPath": "D:\\Estudos\\design-patterns\\DesignPatterns\\FactoryMethod\\FactoryMethod.csproj",
+        "projectPath": "D:\\Estudos\\design-patterns\\design-patterns\\FactoryMethod\\FactoryMethod.csproj",
         "packagesPath": "C:\\Users\\silva\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\design-patterns\\DesignPatterns\\FactoryMethod\\obj\\",
+        "outputPath": "D:\\Estudos\\design-patterns\\design-patterns\\FactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\silva\\AppData\\Roaming\\NuGet\\NuGet.Config",

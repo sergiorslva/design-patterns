@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudos\\design-patterns\\DesignPatterns\\Singleton\\Singleton.csproj",
+      "projectUniqueName": "D:\\Estudos\\design-patterns\\design-patterns\\Singleton\\Singleton.csproj",
       "projectName": "Singleton",
-      "projectPath": "D:\\Estudos\\design-patterns\\DesignPatterns\\Singleton\\Singleton.csproj",
+      "projectPath": "D:\\Estudos\\design-patterns\\design-patterns\\Singleton\\Singleton.csproj",
       "packagesPath": "C:\\Users\\silva\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudos\\design-patterns\\DesignPatterns\\Singleton\\obj\\",
+      "outputPath": "D:\\Estudos\\design-patterns\\design-patterns\\Singleton\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
