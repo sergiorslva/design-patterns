@@ -1,0 +1,17 @@
+D:\Estudos\design-patterns\design-patterns\Prototype\bin\Debug\net6.0\Prototype.exe
+D:\Estudos\design-patterns\design-patterns\Prototype\bin\Debug\net6.0\Prototype.deps.json
+D:\Estudos\design-patterns\design-patterns\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+D:\Estudos\design-patterns\design-patterns\Prototype\bin\Debug\net6.0\Prototype.dll
+D:\Estudos\design-patterns\design-patterns\Prototype\bin\Debug\net6.0\Prototype.pdb
+D:\Estudos\design-patterns\design-patterns\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+D:\Estudos\design-patterns\design-patterns\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\design-patterns\design-patterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+D:\Estudos\design-patterns\design-patterns\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+D:\Estudos\design-patterns\design-patterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+D:\Estudos\design-patterns\design-patterns\Prototype\obj\Debug\net6.0\Prototype.dll
+D:\Estudos\design-patterns\design-patterns\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+D:\Estudos\design-patterns\design-patterns\Prototype\obj\Debug\net6.0\Prototype.pdb
+D:\Estudos\design-patterns\design-patterns\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+D:\Estudos\design-patterns\design-patterns\Prototype\obj\Debug\net6.0\ref\Prototype.dll
+D:\Estudos\design-patterns\design-patterns\Prototype\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Estudos\design-patterns\design-patterns\Prototype\obj\Debug\net6.0\Prototype.csproj.CopyComplete
