@@ -12,6 +12,10 @@ This is a sample how can we implements the Abstract Factory pattern using c#
 ### Builder
 This is a sample how can we implements the Builder Factory pattern using c#
 
+### Prototype
+This is a sample how can we implements the Prototype pattern using c#
+
 ##Structural
 ### Adapter
 This is a sample how can we implements the Adapter pattern using c#
+
