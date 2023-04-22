@@ -1,0 +1,17 @@
+D:\Estudos\design-patterns\design-patterns\Adapter\bin\Debug\net6.0\Adapter.exe
+D:\Estudos\design-patterns\design-patterns\Adapter\bin\Debug\net6.0\Adapter.deps.json
+D:\Estudos\design-patterns\design-patterns\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+D:\Estudos\design-patterns\design-patterns\Adapter\bin\Debug\net6.0\Adapter.dll
+D:\Estudos\design-patterns\design-patterns\Adapter\bin\Debug\net6.0\Adapter.pdb
+D:\Estudos\design-patterns\design-patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+D:\Estudos\design-patterns\design-patterns\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\design-patterns\design-patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+D:\Estudos\design-patterns\design-patterns\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+D:\Estudos\design-patterns\design-patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Estudos\design-patterns\design-patterns\Adapter\obj\Debug\net6.0\Adapter.dll
+D:\Estudos\design-patterns\design-patterns\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+D:\Estudos\design-patterns\design-patterns\Adapter\obj\Debug\net6.0\Adapter.pdb
+D:\Estudos\design-patterns\design-patterns\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+D:\Estudos\design-patterns\design-patterns\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+D:\Estudos\design-patterns\design-patterns\Adapter\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Estudos\design-patterns\design-patterns\Adapter\obj\Debug\net6.0\Adapter.csproj.CopyComplete

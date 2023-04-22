@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{5CE6026B-343C-496B-AA8F-E637DF42881C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{F32A57ED-FFF1-48C8-BED1-DCBE672BA588}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{F32A57ED-FFF1-48C8-BED1-DCBE672BA588}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{F3AC23A2-F072-40F0-95D2-80CA5C77463B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{F3AC23A2-F072-40F0-95D2-80CA5C77463B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{E97A930D-2662-4EE9-BC34-2557C0954F14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{4BA5F69F-E3D5-42B9-8973-E950509DE021}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,10 @@ Global
 		{F3AC23A2-F072-40F0-95D2-80CA5C77463B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3AC23A2-F072-40F0-95D2-80CA5C77463B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3AC23A2-F072-40F0-95D2-80CA5C77463B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA5F69F-E3D5-42B9-8973-E950509DE021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA5F69F-E3D5-42B9-8973-E950509DE021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA5F69F-E3D5-42B9-8973-E950509DE021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA5F69F-E3D5-42B9-8973-E950509DE021}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +59,7 @@ Global
 		{5CE6026B-343C-496B-AA8F-E637DF42881C} = {46F1B25D-2625-4799-AE0A-DC87D2F6D6F6}
 		{F32A57ED-FFF1-48C8-BED1-DCBE672BA588} = {46F1B25D-2625-4799-AE0A-DC87D2F6D6F6}
 		{F3AC23A2-F072-40F0-95D2-80CA5C77463B} = {46F1B25D-2625-4799-AE0A-DC87D2F6D6F6}
+		{4BA5F69F-E3D5-42B9-8973-E950509DE021} = {E97A930D-2662-4EE9-BC34-2557C0954F14}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {29B39278-16A5-4688-9E4D-9DE98BD0F16D}
