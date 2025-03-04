@@ -35,7 +35,7 @@ Console.WriteLine($"Name Person 2: {personModel2.Name}");
 Console.WriteLine("......................................");
 
 Console.WriteLine("Cloning with Newtonsoft");
-PersonModel personModel3 = personModel.CloneWithNewton();
+PersonModel personModel3 = personModel.DeepClone();
 
 Console.WriteLine($"Name Person 1: {personModel.Name}");
 Console.WriteLine($"Name Person 3: {personModel3.Name}");
