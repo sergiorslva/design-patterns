@@ -22,7 +22,7 @@ namespace Prototype
             }            
         }
 
-        public PersonModel CloneWithNewton()
+        public PersonModel DeepClone()
         {
             return JsonConvert.DeserializeObject<PersonModel>(JsonConvert.SerializeObject(this));
         }
