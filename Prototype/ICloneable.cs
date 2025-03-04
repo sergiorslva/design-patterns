@@ -3,6 +3,6 @@
     public interface ICloneable
     {
         PersonModel Clone();
-        PersonModel CloneWithNewton();
+        PersonModel DeepClone();
     }
 }
